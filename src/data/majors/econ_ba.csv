@@ -1,0 +1,25 @@
+Semester ,Course Code     ,Course Title                                                                 ,Credits ,Major    ,Prerequisites
+Sem-1/2  ,ECON101         ,Principles of Economics                                                      ,      2 ,Elective ,
+Sem-1/2  ,ECON102         ,Thinking Like an Economist                                                   ,      2 ,Elective ,
+Sem-1/2  ,ECON122         ,Quantitative Methods in Economics                                            ,      2 ,Elective ,
+Sem-1/2  ,OPSM102         ,Introduction to Operations Research                                          ,      2 ,Elective ,
+Sem-1/2  ,MATH151         ,Introductory Calculus                                                        ,      2 ,Elective ,
+Sem-3    ,ECON221         ,Mathematics for Economics I                                                  ,      3 ,Core     ,"ECON101 or ECON102 and ECON122 or MATH151 or OPSM102"
+Sem-3    ,ECON201         ,Microeconomics I                                                             ,      3 ,Core     ,"ECON101 or ECON102 and ECON122 or MATH151 or OPSM102"
+Sem-3    ,ECON202         ,Macroeconomics I                                                             ,      3 ,Core     ,"ECON101 or ECON102 and ECON122 or MATH151 or OPSM102"
+Sem-3    ,ECON204         ,Indian Economy                                                               ,      3 ,Core     ,ECON101 or ECON102
+Sem-4    ,ECON207         ,Labour Economics                                                             ,      3 ,Elective ,ECON201
+Sem-4    ,ECON301         ,Microeconomics II                                                            ,      3 ,Core     ,ECON201
+Sem-4    ,ECON302         ,Macroeconomics II                                                            ,      3 ,Core     ,"ECON 201 or ECON202"
+Sem-4    ,ECON223/MATH203 ,"Mathematics for Economics II or Introduction to Probability and Statistics" ,      3 ,Core     ,ECON221
+Sem-5    ,ECON307         ,"Economics of Industry, Innovation and Strategy"                             ,      3 ,Elective ,ECON 201
+Sem-5    ,ECON321         ,Econometrics I                                                               ,      4 ,Core     ,ECON223
+Sem-5    ,ECON305         ,Public Economics                                                             ,      3 ,Elective ,ECON201
+Sem-5    ,ECON333         ,Behavioural Economics                                                        ,      3 ,Elective ,ECON201
+Sem-5    ,ECON205         ,International Economics                                                      ,      3 ,Core     ,ECON201
+Sem-5    ,FINC307         ,Banking and Insurance                                                        ,      3 ,Elective ,
+Sem-6    ,ECON322         ,Econometrics II                                                              ,      3 ,Elective ,ECON321
+Sem-6    ,ECON303         ,Developmental Economics                                                      ,      3 ,Core     ,ECON201 and ECON202
+Sem-6    ,ECON331         ,Environmental Economics                                                      ,      3 ,Elective ,ECON201
+Sem-6    ,ECON304         ,Gender Economics                                                             ,      3 ,Elective ,ECON201
+Sem-6    ,ECON323         ,Quantitative Macro-Finance                                                   ,      3 ,Elective ,ECON302 and ECON321

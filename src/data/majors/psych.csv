@@ -1,0 +1,25 @@
+Course Code ,Semester ,Course Title                                                ,Credits ,Major    ,Prerequisites                             
+PSYC152     ,Sem-1/2  ,Methods in Psychology                                       ,      2 ,Elective ,                                          
+PSYC101     ,Sem-1/2  ,Introduction to Psychology                                  ,      2 ,Elective ,                                          
+PSYC153     ,Sem-1/2  ,Psychology of Self and Identity                             ,      2 ,Elective ,                                          
+PSYC151     ,Sem-1/2  ,Fields of Psychology                                        ,      2 ,Elective ,                                          
+PSYC204     ,Sem-3    ,Biological Bases of Behaviour                               ,      3 ,Core     ,"PSYC101 or PSYC152 or PSYC153 or PSYC151" 
+PSYC202     ,Sem-3    ,Social Psychology                                           ,      3 ,Core     ,"PSYC101 or PSYC152 or PSYC153 or PSYC151" 
+PSYC221     ,Sem-3    ,Statistics in Psychology                                    ,      3 ,Core     ,"PSYC101 or PSYC152 or PSYC153 or PSYC151" 
+PSYC201     ,Sem-3    ,Personality Psychology                                      ,      3 ,Elective ,"PSYC101 or PSYC152 or PSYC153 or PSYC151"
+PSYC203     ,Sem-4    ,Developmental Psychology                                    ,      3 ,Core     ,"PSYC101 or PSYC152 or PSYC153 or PSYC151"
+PSYC282     ,Sem-4    ,Quantitative and Qualitative Research Methods in Psychology ,      4 ,Core     ,PSYC221                                   
+PSYC207     ,Sem-4    ,Abnormal Psychology                                         ,      3 ,Elective ,PSYC204                                   
+PSYC206     ,Sem-4    ,Industrial Psychology                                       ,      3 ,Elective ,PSYC201 or PSYC202                        
+PSYC209     ,Sem-4    ,Psychology and the Environment                              ,      3 ,Elective ,PSYC101 or PSYC15 or PSYC153 or PSYC151   
+PSYC205     ,Sem-5    ,Educational Psychology                                      ,      3 ,Core     ,PSYC203                                   
+PSYC302     ,Sem-5    ,Counselling Approaches                                      ,      3 ,Elective ,PSYC207                                   
+PSYC301     ,Sem-5    ,Experimental Psychology                                     ,      4 ,Core     ,PSYC282                                   
+PSYC303     ,Sem-5    ,Cross-cultural Psychology                                   ,      3 ,Elective ,"PSYC101 or PSYC152 or PSYC153 or PSYC151"
+PSYC304     ,Sem-5    ,Health Psychology                                           ,      3 ,Elective ,"PSYC101 or PSYC152 or PSYC153 or PSYC151"
+PSYC305     ,Sem-6    ,Methods of Psychological Testing                            ,      4 ,Core     ,PSYC301                                   
+PSYC306     ,Sem-6    ,Cognitive Psychology                                        ,      3 ,Core     ,PSYC301                                   
+PSYC309     ,Sem-6    ,Community Psychology                                        ,      3 ,Elective ,"PSYC101 or PSYC152 or PSYC153 or PSYC151"
+PSYC307     ,Sem-6    ,Positive Psychology                                         ,      3 ,Elective ,"PSYC101 or PSYC152 or PSYC153 or PSYC151"
+PSYC381     ,Sem-6    ,Advanced Research Methods                                   ,      3 ,Elective ,PSYC282                                   
+PSYC210     ,Sem-6    ,Psychology and the Media                                    ,      3 ,Elective ,PSYC202                                   

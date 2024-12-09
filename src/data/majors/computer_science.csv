@@ -1,0 +1,36 @@
+Course Code     ,Semester ,Course Title                                               ,Credits ,Major    ,Prerequisites
+CSIT101         ,Sem-1/2  ,Introduction to Programming                                ,    2.0 ,Elective ,
+MATH155         ,Sem-1/2  ,Introduction to Discrete Mathematics                       ,    2.0 ,Core     ,
+MATH103         ,Sem-1/2  ,Elements of Probability                                    ,    2.0 ,Elective ,
+MATH151         ,Sem-1/2  ,Introductory Calculus                                      ,    2.0 ,Elective ,
+CSIT122         ,Sem-1/2  ,Introduction to Internet of Things                         ,    2.0 ,Elective ,
+CSIT121         ,Sem-1/2  ,Introduction to Computational Modelling                    ,    2.0 ,Elective ,
+CSIT221         ,Sem-3    ,Fundamentals of Computer Architecture                      ,    4.0 ,Core     ,
+CSIT201         ,Sem-3    ,Fundamentals of Data Structures                            ,    4.0 ,Core     ,CSIT101 or CSIT121
+CSIT203         ,Sem-3    ,Principles of Operating Systems                            ,    4.0 ,Core     ,
+CSIT204         ,Sem-3    ,Theory of Computation                                      ,    4.0 ,Core     ,MATH155
+MATH201         ,Sem-3    ,Calculus of One variable                                   ,    3.0 ,Elective ,
+MATH202         ,Sem-3    ,Linear Algebra                                             ,    3.0 ,Elective ,
+CSIT301         ,Sem-4    ,Design and Analysis of Algorithms                          ,    4.0 ,Core     ,CSIT201
+CSIT205         ,Sem-4    ,Principles of Software Engineering                         ,    4.0 ,Core     ,
+CSIT222         ,Sem-4    ,Fundamentals of Database Systems                           ,    4.0 ,Core     ,
+CSIT202         ,Sem-4    ,Introduction to Object Oriented and Functional Programming ,    4.0 ,Core     ,CSIT101 or CSIT121
+CSIT223         ,Sem-4    ,Internet Technologies                                      ,    4.0 ,Elective ,
+ENTS203         ,Sem-4    ,Business Ideation and Lean Startup                         ,    3.0 ,Elective ,
+MATH203         ,Sem-4    ,Introduction to Probability and Statistics                 ,    4.0 ,Elective ,
+CSIT334         ,Sem-4    ,Statistics and Optimisation for Computing                  ,    4.0 ,Elective ,
+CSIT303         ,Sem-5    ,Fundamentals of Computer Security                          ,    4.0 ,Core     ,
+CSIT302         ,Sem-5    ,Principles of Programming Languages                        ,    4.0 ,Core     ,CSIT202
+MATH333         ,Sem-5    ,Numerical Methods                                          ,    4.0 ,Elective ,MATH151 or MATH201
+CSIT332         ,Sem-5    ,Principles of Machine Learning                             ,    4.0 ,Core     ,
+CSIT321         ,Sem-5    ,Fundamentals of Distributed Systems                        ,    4.0 ,Core     ,CSIT222
+CSIT322         ,Sem-5    ,Fundamentals of User Interaction and Experience            ,    3.0 ,Elective ,
+MATH336         ,Sem-5    ,Mathematical Optimisation                                  ,    3.0 ,Elective ,MATH151 or MATH201
+CSIT371         ,Sem-6    ,Advanced Algorithms                                        ,    4.0 ,Core     ,CSIT301
+CSIT372         ,Sem-6    ,Advanced Database Systems                                  ,    4.0 ,Core     ,CSIT222
+CSIT333         ,Sem-6    ,Natural language Processing                                ,    4.0 ,Elective ,CSIT332
+CSIT304         ,Sem-6    ,Fundamentals of Computer Graphics                          ,    4.0 ,Core     ,
+CSIT323         ,Sem-6    ,Mobile Development                                         ,    4.0 ,Elective ,CSIT223
+MATH332         ,Sem-6    ,Applied Probability and Simulation                         ,    4.0 ,Elective ,
+SEM323          ,Sem-6    ,Honours Seminar                                            ,    3.0 ,Core     ,
+THES304/PROJ304 ,Sem-6    ,Honours Thesis/Project                                     ,    4.0 ,Core     ,
