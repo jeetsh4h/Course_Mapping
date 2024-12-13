@@ -10,7 +10,7 @@ function App() {
 
   useEffect(() => {
     const loadCourses = async () => {
-      const response = await fetch(`/src/data/majors/${selectedMajor}.csv`);
+      const response = await fetch(`/data/majors/${selectedMajor}.csv`);
       const text = await response.text();
       setCourses(parseCSV(text));
     };
