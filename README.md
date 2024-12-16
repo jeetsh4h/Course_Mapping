@@ -62,3 +62,11 @@ Curriculum data is stored in CSV files with the following structure:
 * Credits
 * Core/Elective
 * Prerequisites
+
+
+# TODO
+- [x] Add a way to upload custom CSV files (in that specific format)
+- [ ] Better visualisation of the prerequisite relationships\
+- [ ] Fix the spacing for the sem 1/2 courses
+- [ ] Make it clearer that the courses are clickable
+- [ ] Make a more explicit grouping my semester

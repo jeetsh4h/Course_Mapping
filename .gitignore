@@ -22,3 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Submission Files
+csit324_submission_doc.pdf
+project_doc.md
+react_information_chart.png

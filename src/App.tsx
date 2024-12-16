@@ -1,5 +1,6 @@
 import { useState, useEffect } from 'react'
 import { CourseGraph } from './components/CourseGraph'
+import CSVUploader from './components/CSVUploader'
 import { parseCSV } from './utils/csvParser'
 import { Course, MajorType } from './types/Course'
 import './App.css'
@@ -31,6 +32,9 @@ function App() {
         <option value="psych">Psychology</option>
         <option value="econ_ba">Economics</option>
       </select>
+      
+      <CSVUploader onCsvLoaded={setCourses} />
+      
       {courses.length > 0 && <CourseGraph courses={courses} />}
     </div>
   )
